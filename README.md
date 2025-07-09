@@ -70,9 +70,6 @@ PIN changed on 2025-07-09 at 15:25:15
 * The system allows a maximum of 3 wrong PIN attempts.
 * All transactions and actions (withdraw, deposit, balance check, PIN change) are timestamped and logged.
 
-## 🧑‍💻 Author
-
-Made with ❤️ by \[Your Name]
 
 ---
 
